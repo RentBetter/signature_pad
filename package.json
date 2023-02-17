@@ -1,8 +1,8 @@
 {
-  "name": "signature_pad",
+  "name": "@ptgs/signature_pad",
   "description": "Library for drawing smooth signatures.",
-  "version": "4.1.4",
-  "homepage": "https://github.com/szimek/signature_pad",
+  "version": "4.1.5",
+  "homepage": "https://github.com/RentBetter/signature_pad",
   "author": {
     "name": "Szymon Nowak",
     "email": "szimek@gmail.com",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/szimek/signature_pad.git"
+    "url": "https://github.com/RentBetter/signature_pad.git"
   },
   "files": [
     "src",
